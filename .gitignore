@@ -1,0 +1,9 @@
+/reports/
+/target/
+/test-output/
+/TripData/
+/screenshots/
+/Reporting/
+velocity.log
+/testngSuites/LocalTestExcution.xml
+*.class
